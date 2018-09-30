@@ -32,31 +32,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 
 * Update all of the plots any time that a new sample is selected.
 
-* You are welcome to create any layout that you would like for your dashboard. An example dashboard page might look something like the following.
-
-## Step 2 - Heroku
-
-Deploy your Flask app to Heroku.
-
-* You can use the provided sqlite file for the database.
-
-* Ask your Instructor and TAs for help!
-
-- - -
-
-## Advanced Challenge Assignment (Optional)
-
-The following task is completely optional and is very advanced.
-
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the Weekly Washing Frequency obtained from the route `/wfreq/<sample>`
-
-* You will need to modify the example gauge code to account for values ranging from 0 - 9.
-
-* Update the chart whenever a new sample is selected
-
-
-- - -
-
+* You are welcome to create any layout that you would like for your dashboard. 
 ## Flask API
 
 Use Flask API starter code to serve the data needed for your plots.
